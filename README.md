@@ -2,6 +2,6 @@
 
 This is Test Swoole on Laravel 
 
-# composer insrall
+composer insrall
 
-# php artisan vendor:publish --tag=laravel-swoole
+php artisan vendor:publish --tag=laravel-swoole
